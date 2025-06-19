@@ -7,6 +7,7 @@ The course provided a comprehensive introduction to **C++ programming**, coverin
 The assignments in this repository reflect the step-by-step development of programming skills, problem-solving techniques, and software engineering practices using C++.
 
 All assignments were developed and tested primarily using **VSCode** on macOS, reflecting my proficiency with this integrated development environment (IDE).
+
 ---
 
 ## 🎯 Course Goals
